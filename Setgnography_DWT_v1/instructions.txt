@@ -1,0 +1,4 @@
+- Change the path "D://rk//facebook_logo.png" in SecureFileTransfer.java and "D://rk//facebook_logo_ref.png" in ServerSide.java to your system path.
+- Use test.png as original images.
+- facebook_logo.png and facebook_logo_ref.png are output files.
+- Note:- It doesn't support special charecter ÿ in serect message so avoid using it.
